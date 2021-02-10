@@ -17,7 +17,6 @@ El componente debe:
 ### Requerimientos No Funcionales
 - Alta calidad de código, vamos a ser muy estrictos en esta área.
 - Usar un linter para mejor tu estilo de código.
-- Debería verse muy cerca de la imagen de abajo o lo que consideres mejor.
 
 ### Tecnologías
 - Node.js with Express
