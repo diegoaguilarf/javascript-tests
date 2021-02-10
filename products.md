@@ -25,6 +25,11 @@ El componente debe:
 - Vue + Vuex
 - Database ( MongoDB | Postgresql )
 
+### Plus
+- Tailwindcss
+- Pruebas e2e
+- Typescript
+
 ### UI
 
 
