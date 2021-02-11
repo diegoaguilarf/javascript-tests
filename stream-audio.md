@@ -4,7 +4,7 @@
 En Oasis creemos en que si desde un principio se toman acciones correctas, nos evitaremos problemas a futuro, añadiendo a esto es muy importante la atención al detalle y la experiencia de usuario.
 
 ### Descripción
-En este test la idea es analizar la capacidad de tomar nuevos retos y aprender nuevas herramientas sobre la marcha sin olvidar las buenas practicas.
+En este test la idea es analizar la capacidad de tomar nuevos retos y aprender nuevas herramientas sobre la marcha sin olvidar las buenas practicas. Esto lo aprenderas en la construción de una sala para comunicarse por voz.
 
 ### Requerimientos Funcionales
 El componente debe:
