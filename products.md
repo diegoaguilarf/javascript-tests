@@ -31,7 +31,7 @@ El componente debe:
 - Typescript
 
 ### UI
-
+[FIGMA](https://www.figma.com/file/Tcqih6zxaKrblpBK7zbS3a/products-test?node-id=0%3A1)
 
 ### Deadline
 13 de Febrero del 2021.
