@@ -27,7 +27,7 @@ El componente debe:
 - Desplegar en servidor
 
 ### UI
-
+[FIGMA](https://www.figma.com/file/sgiNm4JfrPVKMBv2vwBgMR/strema-audio?node-id=0%3A1)
 
 ### Deadline
 13 de Febrero del 2021.
