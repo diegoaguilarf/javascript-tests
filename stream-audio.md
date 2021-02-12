@@ -12,6 +12,7 @@ El componente debe:
 - **Identificador** Solicitar un nombre, o en su defecto asignar uno aleatorio.
 - **Escuchar** Poder escuchar a los miembros de la sala.
 - **Hablar** Poder hablar al resto de la sala.
+- **Indicador** Si la persona esta hablando el icono del microfono debe estar en verde.
 - **Limite** Es una unica sala con un maximo de 10 personas
 
 ### Requerimientos No Funcionales
